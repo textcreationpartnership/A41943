@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great satisfaction concerning the death of the Earle of Strafford in a discourse betweene a Scottishman and a Jesuite with a serious consideration of certaine conclusions observed from his last speech upon the scaffold.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41943</idno>
+            <idno type="STC">Wing G1751</idno>
+            <idno type="STC">ESTC R11682</idno>
+            <idno type="EEBO-CITATION">11998165</idno>
+            <idno type="OCLC">ocm 11998165</idno>
+            <idno type="VID">52131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 564:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great satisfaction concerning the death of the Earle of Strafford in a discourse betweene a Scottishman and a Jesuite with a serious consideration of certaine conclusions observed from his last speech upon the scaffold.</title>
+               </titleStmt>
+               <extent>7 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641. --  Two last speeches of Thomas Wentworth, late Earle of Strafford and Deputy of Ireland, the one in the Tower, the other on the scaffold on Tower-Hill, May 12th, 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:52131:1"/>
+            <pb facs="tcp:52131:1" rendition="simple:additions"/>
+            <head>GREAT SATISFACTION CONCERNING The Death of the Earle of <hi>Strafford,</hi> in a Diſcourſe betweene a <hi>Scottiſhman</hi> and a <hi>Jeſuite.</hi>
+            </head>
+            <head type="sub">With a ſerious conſideration of certaine Concluſions obſerved from his laſt <hi>Speech</hi> vpon the Scaffold.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Follow the laſt Speech publiſhed, appealed to the Lord Pri<g ref="char:EOLhyphen"/>mate of <hi>Jreland,</hi> Earle of <hi>Cleveland,</hi> Earle of <hi>Newport,</hi> Lord <hi>Rich,</hi> &amp;c. obſerving the heads according to the paper by himſelfe left upon the Scaffold:</p>
+            <stage>
+               <list>
+                  <item>
+                     <hi>Scot.</hi>
+                  </item>
+                  <item>
+                     <hi>Ieſuit.</hi>
+                  </item>
+               </list>
+            </stage>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I pray you Sir, what is the matter, from whence come all theſe people ſo faſt?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>Doeſt thou not know, every Child can tell through the whole City, that they came from the execution of the Earle of <hi>Strafford.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Why, is the Earle of <hi>Strafford</hi> dead?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>He is beheaded upon the Scaffold at <hi>Tower</hi>-hill: he is dead ſure enough, God comfort him.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>A my ſaule I am glad out with all my heart, the Earle of <hi>Strafford</hi> is dead? the beſt newes that ever I heard in my life: Ile away into <hi>Scotland,</hi> ham<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as faſt as I can, and tell my Grannum this newes. Ile toſſe my Cap for joy.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>Why doe you <hi>Scottiſhmen</hi> ſo envy the Lord <hi>Strafford?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>We doe not, nor never did envy his perſon; but he was
+<pb n="1" facs="tcp:52131:2"/> one of the troublers of the 3. Kingdomes: which could never be well ſetled for him, and ſuch as he. But I pray you ſir, tell me one thing. Did he dye well, and make a good end?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He made an excellent Speech, and left us a worthy patterne againſt we dye.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I pray you what ſaid he?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>He firſt made a ſhort Preface to the Lord Primate of <hi>Ireland,</hi> but the people made a noyſe and interrupted him.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>But what ſaid he? Did he repent: and confeſſe his juſt deſerved death, to be inflicted upon him, for offending God?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>The firſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead of his Speech was, concerning his <hi>Com<g ref="char:EOLhyphen"/>ming to pay the laſt debt we owe to ſin,</hi> according to St. <hi>Pauls</hi> ſaying, <hi>we are all ſubject to death.</hi> 1. <hi>Cor.</hi> 15.22. Now he did confeſſe, that he came thither by the goodwill and pleaſure of A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mighty God, <hi>to dye,</hi> as it is, <hi>Heb.</hi> 9.27.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>But I pray you tell me, did he yeeld up his ſpirit in the faith of Chriſt, under the hope of ſalvation by him, <hi>with re<g ref="char:EOLhyphen"/>pentance, for all his ſins? Revel.</hi> 14.13. did he fall <hi>a ſleepe in Chriſt?</hi> 1 <hi>Theſſ.</hi> p. 13. What was the reſt of his Speech?</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p n="2">2. He ſpoke co<g ref="char:cmbAbbrStroke">̄</g>cerning his riſing to Righteouſneſs. <hi>There is a glorified Righteouſneſſe, through Chriſt in the world to come both perfite and inherent, Pſal.</hi> 73.24. And the Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> did declare himſelfe, that he was confident, by the bleſſing of God, <hi>to riſe againe through the merits of Jeſus Chriſt, to Righteouſneſſe, and life eternall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>But did he before his Death profit in true righteouſ<g ref="char:EOLhyphen"/>neſſe and holineſſe, by meanes of thoſe chaſtiſements that God laid upon him: or if you will, that his ſinnes brought upon him in this life? Did he behold the Majeſty of the Lord in the ſentence of his death? <hi>Iſay.</hi> 26.9, 10. &amp;c. It is not a flouriſhing vapour that brings a man to Heaven, but I pray you proceed in his Speech.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>In the 3. head, <hi>he did expreſſe that he did dye willingly.</hi> Now there is ſuch a power in the Reſurrectio<g ref="char:cmbAbbrStroke">̄</g> of Chriſt which hath looſed the ſorrowes and diſcontents of death, and makes a man <hi>to dye willingly, Acts</hi> 2.24. And thus did he declare himſelfe to be looſed from the ſorrowes of death, inſomuch,
+<pb n="2" facs="tcp:52131:2" rendition="simple:additions"/> that he ſubmitted himſelfe to it, with a very quiet, and con<g ref="char:EOLhyphen"/>tented mind.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Now here is the matter. Was he firſt wounded for the offence, <hi>then Reconciled to God, by the death of Chriſt,</hi> before he died, and rejoycing before the Lord did he <hi>receive the Attonement through Chriſt? Rom.</hi> 5.10.11.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>Jn the 4. place, he <hi>forgave all,</hi> which is the property of Gods Children, <hi>they forgive all, and of an humble mind, forbea<g ref="char:EOLhyphen"/>ring, and long ſuffering. Coloſſ.</hi> 3.12.13. Thus did the Earle of <hi>Strafford</hi> freely forgive all the world, and that he expreſt he did, not from the teeth outward, but from the very heart, pro<g ref="char:EOLhyphen"/>teſting before Almighty God, that there was not a diſpleaſing thought in him, towards any creature.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>
+                  <hi>That was ve<g ref="char:EOLhyphen"/>ry good,</hi> but did he find true teſtimony from Gods Spirit, in the forgiveneſſe of his owne offences, againſt God, and againſt his people, <hi>Confeſſing his ſins humbly, and without guile, and powring out his ſoule before the Lord, till God ſealed him a par<g ref="char:EOLhyphen"/>don? Pſal.</hi> 32. I pray you proceed in his Speech.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He wiſhed in the 5. place, <hi>nothing but proſperity to King and people;</hi> upon which particular he was ſomething large. The 1. part whereof concerned his place, as he was Deputy. Now as the Scripture ſaith; <hi>fidelity to the King, and true Iudge<g ref="char:EOLhyphen"/>ment to the people, are weighty matters of the Law,</hi> which con<g ref="char:EOLhyphen"/>cerned his place, <hi>and ought by him to be done. Mat.</hi> 23, 23. And herein he glorified, and thanked God, that he could ſay from his Conſcience, that he (in his place) never had any thing in the purpoſe of his heart, but what tended to the joynt, and individuall proſperity of King and people.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Well, well. All is not Gold that gliſters, nor are all Saints that have ſine tongues: Rhetoricke and policie will not juſtifie a man before God. Had he ſought the publick tranquillity of the King and people, <hi>in peace, and truth, and the quiet ſtate of the Church of God,</hi> he would not have laboured to bring in, but to have freed it from both, forraine and Civill warres. 2 <hi>Kings</hi> 20.19. Jt is a ſtrange and unwarrantable way for any that profeſſe them<g ref="char:EOLhyphen"/>ſelves <hi>Chriſtians</hi> to ſeeke the joyning of King, and people to<g ref="char:EOLhyphen"/>gether, and the proſperity of both, <hi>by confirming errours in the
+<pb n="3" facs="tcp:52131:3"/> Church, and by perſecuting tyrannie, ſlaughters, &amp; bloody warres</hi> to force the people to obey by conſtraint, <hi>Pſal.</hi> 23.1.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>The 2. place, He <hi>declared himſelfe to be miſunderſtood,</hi> and <hi>Moſes</hi> Law ſhewes, that <hi>Iudges ought to keepe themſelves from falſe matters, and from putting to death the innocent and righteous. Exod.</hi> 23.7. Now the Earle of <hi>Strafford</hi> conceived himſelfe to be miſ-judged, imputing it to the Errour of miſ<g ref="char:EOLhyphen"/>underſta<g ref="char:cmbAbbrStroke">̄</g>dſting him.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot.</hi>
+               </speaker>
+               <p>
+                  <hi>I am very ſorry to heare that he was no more p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nitent,</hi> having ſo many hainous crimes proved a<g ref="char:EOLhyphen"/>gainſt him, as to overthrow the right of Law by exorbitant power, to take away mens eſtates by force, to proceed againſt the Lord <hi>Mount-norris</hi> without all courſe of Law or Juſtice, with divers other Articles proved at large againſt him, alas! alas! that he ſhould be ſo blinded to ſpeake ſuch a peremp<g ref="char:EOLhyphen"/>tory word! Will he make his owne unjuſt proceedings con<g ref="char:EOLhyphen"/>trary to law, to be juſtifiable, and condemne the ſentence ſo juſtly denounced againſt him: ſo juſtly, and true? Surely hee thought all was but in jeſt, or that his golden mouthed lan<g ref="char:EOLhyphen"/>guage would ſave his life, or ſome end he had beſt knowne to himſelfe, for he could not be ignorant of his juſt deſerved cenſure, according both to <hi>Common-Law, Statute-Law,</hi> and <hi>Parliament:</hi> but indeed, every one almoſt held him an enemy to all theſe.</p>
+            </sp>
+            <sp>
+               <speaker>Jeſ.</speaker>
+               <p>He ſhewed himſelfe in the 3. place <hi>To approve of Parliaments.</hi> There is one thing, ſaith he, I deſire to free my ſelfe of, and I am very confident that I ſhall bee beleeved: <hi>I did alwaies thinke the Parliaments of England were the happieſt conſtitutions that any Kingdome or Nation lived un<g ref="char:EOLhyphen"/>der, and next under God, the beſt meanes to make the King and his people happy, ſo farre have I been from being againſt Parlia<g ref="char:EOLhyphen"/>ments.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>So farre, <hi>that is as much as nothing,</hi> he thought ſo, and he ſaid ſo, and he knew ſo. <hi>David</hi> thought <hi>
+                     <g ref="char:V">Ʋ</g>riah</hi> happy in having ſo faire a Wife, he knew and was ſenſible of the de<g ref="char:EOLhyphen"/>light that was to be found in her, but what did that make for <hi>Vriah?</hi> He loſt his wife by <hi>Davids</hi> taking notice of it: and his life too: ſo what is it that the Earle of <hi>Strafford</hi> know how happy the Parliaments of <hi>England</hi> were for the King and
+<pb n="4" facs="tcp:52131:3" rendition="simple:additions"/> people, and upon ſuch his knowledge to hinder, and ſtop them, and to labour to deprive the Land of them: uſing meanes to have the ſtrife ended by <hi>Warre,</hi> and <hi>Blood:</hi> rather then by <hi>Par<g ref="char:EOLhyphen"/>liament</hi> and <hi>peace?</hi> But I pray you ſir, will you be pleaſed to proceed to the reſt of his Speech.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p n="6">6. He <hi>ſubmitted to juſtice, being in his intentions Inno<g ref="char:EOLhyphen"/>cent.</hi> We reade, that when <hi>Stephen</hi> was ſtoned he kneeled downe, and cryed, <hi>Lord lay not this ſin to their charge. Acts.</hi> 7.60. Thus the Lord of <hi>Strafford</hi> imitated holy <hi>Stephen;</hi> ſaying, <hi>that he acquitted all the world,</hi> and <hi>heartily forgave them;</hi> plea<g ref="char:EOLhyphen"/>ding his intentions to be innocent.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Was he not in a trance when he pleaded <hi>Innocency,</hi> or was his wit too high to ſtoope to <hi>Iuſtice?</hi> What condemned of treaſon by ſo faire a tryall? Search and ſee, if all Hiſtories can parallell with it? He whoſe <hi>Iudgement</hi> and <hi>wit</hi> is admired to pleade <hi>Innocency</hi> in ſo cleare a cenſure?</p>
+               <p>
+                  <hi>To practiſe with another Governour of another Country to invade this Realme, is high Treaſon, although ſuch practiſes be not put in the Dyer.</hi> 248. <hi>Is it not then treaſon too, to tell the King that he had an Army in Ireland, ſhould reduce this Kingdome to obedience, to encoun<g ref="char:EOLhyphen"/>ter, and fight, and kill, ſuch as are the Kings ſouldiers, or aſſiſting the King in his warres, is high Treaſon.</hi> 45. <hi>Edw.</hi> 3.25. Br. <hi>treaſon.</hi> 7.21. <hi>E.</hi> 23. <hi>Stamf.</hi> 1.1. Is it not then Treaſon <hi>to be the willing cauſe of the loſſe of New-caſtle of purpoſe to engage the</hi> 2. <hi>Kingdomes in a warre?</hi>
+               </p>
+               <p>
+                  <hi>To maintain the extollers or maintainers of the See of Rome?</hi> The firſt offence doth incurre y<hi rend="sup">e</hi> danger of a <hi>praemunine:</hi> the ſecond offence is <hi>high treaſon.</hi> 5. <hi>El.</hi> 1. D. <hi>Conce.</hi> 1. what then was the Lord <hi>Straffords</hi> fact, that to oblige them the more, compounded with <hi>Recuſants</hi> at ſo low a rate?</p>
+               <p>Such as ſhall doe or procure any thing, <hi>ad ſeditionem domini Regis, vel exercitus ſu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon, ſaith Mr. <hi>Andrew Hornes</hi> booke, <hi>Speculum Iu<g ref="char:EOLhyphen"/>ſtitiariorum</hi> ſo ſaith he, is <hi>falſifying the Kings Seales, &amp;c.</hi> In a word, becauſe many like caſes of treaſon might happen &amp;c. it was (by the ſtatute 25. <hi>Edw.</hi> 3. ch. 2.) accorded, that if any other caſe ſuppoſed trea<g ref="char:EOLhyphen"/>ſon, which is not as that Statute ſpecified, doth happen, that it ſhould be declared before the <hi>King</hi> and his <hi>Parliament,</hi> &amp;c. Theſe things I paſſe over ore fly, giving but a touch of them: by which we may perceive how great thoſe offences were, whereby the Earle of <hi>Strafford</hi> expulſed <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ople out of their Families by men in Armes, his treachery againſt the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te and diviſion betwixt the <hi>King</hi> and <hi>People</hi> by him wrought, as
+<pb n="5" facs="tcp:52131:4"/> may appeare in his Articles. But I will not interrupt you too long; I pray you ſir, will you be pleaſed to goe on with the reſt of his Speech?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>
+                  <hi>He acquitted the King conſtrained to,</hi> &amp;c it was a great praiſe to the Kings of <hi>Iſrael, that they were mercifull Kings,</hi> 1 <hi>Kings</hi> 20.31. And this was a great comfort to the Earle of <hi>Straf</hi> that the King was ſo full of pitty and mercy to him, and he infinitely rejoyced therein.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>It is our comfort that we have a gracious King, but let not us therefore abuſe his mercy. Did the L. <hi>Strafford</hi> make the God of Hea<g ref="char:EOLhyphen"/>ven his <hi>ſalvation</hi> and <hi>pray unto him,</hi> and <hi>praiſe his name, forſaking his humane policy, and lying vanities,</hi> if he did not, I can aſſure you he for<g ref="char:EOLhyphen"/>ſooke his owne mercy and <hi>refuſed the true felicity. Ionah.</hi> 2.8.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>
+                  <hi>He beſought to repent.</hi> The Lord himſelfe admoniſheth all men every where <hi>to repent, Acts</hi> 17.30. So did this Earle; he having wiſhed to this Kingdome all the proſperity &amp; happineſſe in the world, deſired that they would repent, y<hi rend="sup">t</hi> they would lay their hands upon their hearts.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I thought rather that he had been extreamely humbled with the ſight of his ſins, &amp; ſaid. <hi>Oh how many glorious ſtarres ſhine in the Par<g ref="char:EOLhyphen"/>liament,</hi> and my glory is Eclipſed. I will therefore turn unto the Lord, and confeſſe my ſins, that ſo J be not clouded in darkeneſſe (in the world to come) but through my Saviour Chriſt may be a bright-ſhining ſtarre in Heaven, <hi>againſt thee Lord have I ſinned, and doe now moſt juſtly ſuf<g ref="char:EOLhyphen"/>fer. Luke</hi> 15.17. &amp;c. But I pray you goe on.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He ſhewed in the 9. place. <hi>That it was a ſtrange way to write the beginning of Refor<g ref="char:EOLhyphen"/>mation, and ſettlement of a Kingdome in blood.</hi> The Lord denounceth a woe againſt them that build a Towne with <hi>blood. Haba.</hi> 2, 12. And the Earle of <hi>Strafford</hi> deſired the people to conſider whether the Reforma<g ref="char:EOLhyphen"/>tion of the happineſſe of a Kingdome ſhould be written in Letters of blood.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>By Blood, there is meant blood-ſhed by iniquity and not by the Sword of <hi>Iuſtice.</hi> The Blood of <hi>Zimri</hi> and <hi>Coſby</hi> was ſhed by <hi>Phineas,</hi> which wrought a Reformation of happineſſe to the peo<g ref="char:EOLhyphen"/>ple, <hi>the wrath of God was thereby appeaſed, and the Plague then amongſt them was ſtayed, Numbers,</hi> 25. and thus J hope will it now ſo be with us,</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He did beſeech that <hi>demands</hi> might reſt there which was the 10 head of his Speech. St. <hi>Paul</hi> would have every man to prove his own worke, <hi>to ſee whether he can rejoyce in it, Gal.</hi> 6.4. And thus would the Earle of <hi>Strafford</hi> have his death to be conſidered of in our Houſes.</p>
+            </sp>
+            <sp>
+               <speaker>Scot,</speaker>
+               <p>Jn my conceit, it concerned him to have beene more diligent to ſearch into his owne heart. Oh of what concernment was it of to him<g ref="char:EOLhyphen"/>ſelfe, <hi>a then dying man,</hi> to have bent his heart diligently, to have purged his owne heart, and conſcience from thoſe ſins <hi>in which he had lived, and for which he was then to ſuffer death, Hag.</hi> 1, 5, 7. J pray you how
+<pb n="6" facs="tcp:52131:4" rendition="simple:additions"/> did he proceed after?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He prayed, that they might not call blood upon themſelves; <hi>Lord lay not this ſin to their charge,</hi> ſaith inno<g ref="char:EOLhyphen"/>cent <hi>Stephen,</hi> when they ſtoned him. <hi>Acts</hi> 7.60. And thus the Lord <hi>Strafford</hi> prayed, that his blood might not riſe up aginſt any one of this Land.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I am ſorry to heare that he was ſo obſtinate, that he would not acknowledge, that he was juſtly executed <hi>for his deſerving ſins, Rom.</hi> 6.23. I pitty him, it is now too late to pray for him, for his condition is ſetled upon him; as he muſt abide, either to <hi>eternall joy,</hi> or <hi>perpetuall woe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>
+                  <hi>He dyed in the faith of the Church.</hi> St <hi>Iohn</hi> ſaith, writing to <hi>Gajus: I have no greater joy then theſe</hi> (ſaith he) <hi>that is to heare that my ſonnes walke in verity,</hi> 3. <hi>Iohn</hi> 4. I profeſſe ſaith the Earle of <hi>Strafford,</hi> that J doe dye a true and faithfull Sonne to the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>But here lies the queſtion, did he dye a <hi>converted</hi> man, did he die a true <hi>Chriſtian,</hi> that as one who having the ſenſe, and feeling of his owne baſeneſſe, and prophaneneſſe <hi>being a veſſell to Satan, and ſervant to ſin, did he repent, and receive of the ſpirituall anoynting from the Lord? Was he endowed through grace with faith, and the Holy Ghoſt? Did he become a perſon dedicated to Chriſt? Rom.</hi> 5 6. 1. <hi>Pet.</hi> 2.9. <hi>Epheſ.</hi> 2, 3.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>We leave that to God: He loved the Church of <hi>England</hi> and prayed for it which was the 13 head of his Speech. <hi>Pray for the peace of Ieruſalem,</hi> ſaith holy David, <hi>they ſhall proſper that love her peace bee within thy walls, and proſperity within thy palaces,</hi> Pſal, 22, 6 7. Thus the good Earle prayed, that peace &amp; proſperity might be to the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I wonder what Church he meant, did he mean the Papiſticall Church, the Ieſuits &amp; their crew, which hath too much encreaſed amongſt us, or the Prelaticall Church of <hi>England,</hi> as it ſtands governed by Biſhops, Arch-biſhops, &amp;c. is it their Hierarchy and tem<g ref="char:EOLhyphen"/>porall glories and dignities, that he deſires to proſper. Or doth he mean the diſtreſſed Church, which hath bin by them long ſubdued and kept in bondage, Doth he pray for thoſe diſtreſſed ſoules, the faithfull mem<g ref="char:EOLhyphen"/>bers of <hi>Ieſus Chriſt</hi> whoſe ſoules have bin filled full of the mocking of the wealthy, and the deſpitefulneſſe of the proud Prelates, <hi>Pſal.</hi> 13, 24.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>He anſwered (ſuch as ſhal object that he was inclining to popery) that ſince he was 21 yeares of age he never doubted of the Religion of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Belike then he tooke all upon truſt, what the Church did, that it ſeemes he beleeved is not this Popery to beleeve ſo, and ſo becauſe the Church beleeves it, and ſo take all upon truſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſuit.</speaker>
+               <p>How would you have men to beleeve?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>
+                  <hi>To beleeve in God, and to ſearch and try the Scriptures,</hi> but I pray you what was the reſt of the Speech?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:52131:5" rendition="simple:additions"/>
+               <speaker>Ieſuit.</speaker>
+               <p>So he concluded his Speech,</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>J pray you what was his Concluſion, was that better then the reſt of his ſpeech?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>In his Concluſion 1 He <hi>reconcileth himſelfe to God through Chriſt Ieſus, Levit.</hi> 23.27. 2. <hi>His hope is in heaven,</hi> Rom, 5, 2, 3. <hi>He deſireth the forgiveneſſe of every man, Pſal.</hi> 32, 1. 4 <hi>He confeſſed his raſh and unadviſed words, and evill deeds, Iohn</hi> 1, 20. 5 <hi>He bids all earthly things farewell, Pſal.</hi> 7, 6 <hi>He falls to prayer, Acts</hi> 10, 9. 7 <hi>His Faith is on God, on whom alone he truſteth, Rom.</hi> 3, 28. 8 <hi>He counſelleth his friends, Zach,</hi> 6.13, 9 <hi>He dyes patiently, Acts</hi> 21, 13. <hi>And</hi> I <hi>truſt he is aſcended into heaven joyfully, Epheſ.</hi> 4.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I can aſſure you if this was all done heartily: he made a good Concluſion indeed, and I can tell you this indeed may give us ſome ſatisfaction to hope well of him.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>Even now you condemned him for making ſuch a ſpeech, and doe you yet like his Concluſion, doe you thinke it poſſible, that a change could be wrought in him on ſuch a ſudden?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Though it is not common to find ſuch preſidents, yet we find that whilſt Chriſt, and the two Theeves did ſuffer even at the place of execution, not one but both the Theeves, which were crucified with him <hi>Reviled him</hi> at the firſt: <hi>Matth.</hi> 27.44. But by and by even at the ſame houre we finde one of thoſe Thieves rebuking the other, 1. Reconciling himſelfe to God, <hi>feareſt thou not God</hi> (ſaith he) 2. <hi>His hope was in peace</hi> ſeeing no<g ref="char:EOLhyphen"/>thing to belong to him on Earth, but preſent condemnation he deſires <hi>forgiveneſſe, confeſſing his ſinne,</hi> we are indeed righteouſly here, and bids all earthly thing farewell: 6 He fals to prayer: <hi>Lord remember me when thou commeſt into thy Kingdome:</hi> 7. By which expreſſion, he ſhew<g ref="char:EOLhyphen"/>ed that his faith was in God, in whom alone he truſted, 8. He coun<g ref="char:EOLhyphen"/>ſelleth the Thiefe, 9. <hi>He dieth patiently:</hi> then Ieſus ſaid unto him, <hi>Verily I ſay unto thee, to day ſhalt thou be with me in Paradice: Luke</hi> 23.39.40, 41, 42, 43. And who knowes that if not before yet even at this inſtant might the time be of his converſion; Gods m<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> might fall upon him, even at the laſt gaſpe.</p>
+               <p>Let us leave him to Gods Tribunall, and judge charitably of him: for God is mercifull, if he were not; woe would be for us all:</p>
+               <p>In a word, let us be thankefull to God that he is removed from trou<g ref="char:EOLhyphen"/>bling our Church and States <hi>Laus Deo.</hi>
+               </p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
